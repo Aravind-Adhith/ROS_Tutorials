@@ -1,0 +1,5 @@
+rosnode list - Lists all running nodes
+
+rqt_graph - Show visual representaion of nodes
+
+rosnode info /node_name - provides node information
