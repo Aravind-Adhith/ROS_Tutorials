@@ -1,0 +1,16 @@
+https://github.com/ssgharat/Turtlebot_lawnmover
+https://github.com/ssgharat/Turtlebot_lawnmover/blob/master/lawnmover_shubham.py
+
+https://www.google.com/search?q=turtlesim+move+to+goal&rlz=1C1CHBF_enIN926IN926&oq=turtlesim+move+&aqs=chrome.1.69i57j0i512l2j0i22i30.6489j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.youtube.com/watch?v=D7ISrmszozk
+
+http://wiki.ros.org/turtlesim
+
+
+https://www.youtube.com/watch?v=4Lifb9Cg_9w
+
+http://wiki.ros.org/turtlesim/Tutorials
+
+
+
